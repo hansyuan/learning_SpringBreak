@@ -1,0 +1,1 @@
+# Lattice. Strongest path. Triangle. 
