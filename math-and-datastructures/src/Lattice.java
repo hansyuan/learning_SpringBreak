@@ -56,11 +56,6 @@ public class Lattice {
         Lattice l = new Lattice(lines);
 
 
-
-
-
-
-        
     }
 
 
