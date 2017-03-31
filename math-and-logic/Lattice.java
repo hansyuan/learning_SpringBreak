@@ -1,3 +1,5 @@
+// I wonder if there is a more efficient data structure for this. 
+
 import java.io.*;
 import java.util.*;
 public class Lattice {
@@ -15,7 +17,7 @@ public class Lattice {
         for (int i = 1; i < lines.size(); i++){
             // Save the (i-1)th pointers with the nodes. 
             String[] composing = lines.get(i).split(" ");
-            
+
         }
 
     }
